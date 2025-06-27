@@ -1,8 +1,10 @@
 # 🗨️ Real-Time Chat App
 
-[📹 Watch Demo Video](https://github.com/iamAdityafr/chat-golang-websocket/raw/main/demo/demo.mp4)
+[📹 Watch Demo Video](https://github.com/user-attachments/assets/0aa59e53-8fe8-40b0-a0c5-4afce51dac3c)
+
 
 A simple, fast, and minimal chat prototype built with **Go** on the backend and **React** on the frontend — powered by **WebSockets** for real-time messaging.
+
 
 > ⚡ Easy to run with Docker on your machine.
 
