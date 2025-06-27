@@ -1,6 +1,6 @@
 # 🗨️ Real-Time Chat App
 
-![Demo](./demo/demo.webm)
+![Demo](./demo/demo.mp4)
 
 A simple, fast, and minimal chat prototype built with **Go** on the backend and **React** on the frontend — powered by **WebSockets** for real-time messaging.
 
